@@ -97,7 +97,7 @@ saveBtn.addEventListener("click", () => {
     // Handle delete button click
     document.addEventListener("click", function (e) {
       if (e.target.classList.contains("delete_timer")) {
-        e.target.closest(".col-md-3").remove();  // remove the entire col
+        e.target.closest(".col-md-4").remove();  // remove the entire col
       }
     });
 
