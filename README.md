@@ -63,3 +63,14 @@ PROJECT2_COUNTDOWNTIMER/
 
 5. When timer ends, a notification modal with alarm will appear.
 
+
+## Connect with me
+
+🔗 GitHub Repository: 
+https://github.com/pritikandalkar-dev/Project2_CountdownTimer.git
+
+🌐 Live Website:
+https://pritikandalkar-dev.github.io/Project2_CountdownTimer/
+
+👩‍💻 GitHub Profile:
+https://github.com/pritikandalkar-dev
