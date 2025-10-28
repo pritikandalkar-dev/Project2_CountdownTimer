@@ -1,9 +1,9 @@
 
-# Countdown Timer Project
+# ⏳ Countdown Timer Project
 
 A dynamic countdown timer application that allows users to add, start, stop, reset, and delete multiple timers. Built with HTML, CSS, JavaScript, and Bootstrap 5, it also includes a notification modal with sound when a timer ends.
 
-## Features
+## ✨ Features
 
 - Add multiple timers with date and time selection.
 
@@ -20,7 +20,7 @@ A dynamic countdown timer application that allows users to add, start, stop, res
 - Press Enter key to save timer (improved UX).
 
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML
 
@@ -33,7 +33,7 @@ A dynamic countdown timer application that allows users to add, start, stop, res
 - Font Awesome
 
 
-## Folder Structure
+## 🗂️ Folder Structure
 
 ```
 PROJECT2_COUNTDOWNTIMER/
@@ -51,7 +51,7 @@ PROJECT2_COUNTDOWNTIMER/
 └── README.md                      # Project documentation
 ```
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone or download the project.
 
@@ -64,7 +64,12 @@ PROJECT2_COUNTDOWNTIMER/
 5. When timer ends, a notification modal with alarm will appear.
 
 
-## Connect with me
+## 👩‍💻 Author
+
+- Priti Kandalkar
+- Front-End React Developer
+
+## 🌟 Connect with me
 
 🔗 GitHub Repository: 
 https://github.com/pritikandalkar-dev/Project2_CountdownTimer.git
